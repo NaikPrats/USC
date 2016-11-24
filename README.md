@@ -1,3 +1,3 @@
 # USC
 
-#This is repository containing academic projects done at USC Viterbi.
+#This repository contains academic projects done at USC Viterbi.
